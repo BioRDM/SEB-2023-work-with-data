@@ -32,7 +32,7 @@ bio_rdm [@] ed.ac.uk
 
 ## Materials
 
-PowerPoint slides can be found [here]()  
+PowerPoint slides can be found [here](https://github.com/BioRDM/SEB-2023-work-with-data/blob/main/SEB-HowToWorkWithData.pptx)  
 *Click download button to get the file*
 
 ### Practical recipes and guides:
