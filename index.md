@@ -5,17 +5,15 @@
 
 ## Dates
 
-* 4th July 2023, 13-17
+* 5th July 2023, 9-12
 
 ## Requirements
 
 It is an interactive workshop with hands on exercises, you should bring your laptop with you.
 
-The workshop spans over two SEB session you should sign for both
-
+We will be using a collaborative notepad at: [https://pad.carpentries.org/SEB-WORK-WITH-DATA-2023-07-05](https://pad.carpentries.org/SEB-WORK-WITH-DATA-2023-07-05)
 
 ## Content
-
 
 The way we disseminate scientific results is changing to include Open Science and Findable Accessible Interoperable Reusable (FAIR) principles. Well-organised data (and code) is not just the best preparation for this, it can also increase productivity. With the introduction of Narrative CVs, both your research and you can be recognised for these new research outputs. We aim to show how you can make the most of these changes by thinking ahead about your data.
 
@@ -27,3 +25,32 @@ In this interactive, two-parts session, we will teach:
 -	what resources are available to assist in data management
 
 This workshop is aimed at all active researchers in biomedical sciences: PhD students, postdocs, technicians and even PIs.
+
+## Contact
+
+bio_rdm [@] ed.ac.uk
+
+## Materials
+
+PowerPoint slides can be found [here]()  
+*Click download button to get the file*
+
+### Practical recipes and guides:
+* [https://faircookbook.elixir-europe.org/](https://faircookbook.elixir-europe.org/)
+* [https://rdmkit.elixir-europe.org/](https://rdmkit.elixir-europe.org/)
+
+### Choosing repositories
+* BioRDM [wiki](https://www.wiki.ed.ac.uk/display/RDMS)
+* [https://fairsharing.org/](https://fairsharing.org/)
+
+### BioRDM wiki  
+[https://www.wiki.ed.ac.uk/display/RDMS](https://www.wiki.ed.ac.uk/display/RDMS)
+
+Biology-tailored resources related to data managment.
+* Re-usable paragraphs for DMP
+* List of recommended data repositories
+* Practical guides to Benchling and other tools
+
+### Our full course on data managment
+* [FAIR in (biological) practice](https://carpentries-incubator.github.io/fair-bio-practice/)
+
