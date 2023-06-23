@@ -9,7 +9,7 @@
 
 ## Requirements
 
-It is an interactive workshop with hands on exercises, you should bring your laptop with you.
+This is an interactive workshop with hands on exercises, so you should bring your laptop with you.
 
 We will be using a collaborative notepad at: [https://pad.carpentries.org/SEB-WORK-WITH-DATA-2023-07-05](https://pad.carpentries.org/SEB-WORK-WITH-DATA-2023-07-05)
 
@@ -40,13 +40,16 @@ PowerPoint slides can be found [here](https://github.com/BioRDM/SEB-2023-work-wi
 * [https://rdmkit.elixir-europe.org/](https://rdmkit.elixir-europe.org/)
 
 ### Choosing repositories
-* BioRDM [wiki](https://www.wiki.ed.ac.uk/display/RDMS)
+* BioRDM [wiki](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories)
 * [https://fairsharing.org/](https://fairsharing.org/)
 
+### Data Sharing Recommendations
+* [Recommendations](https://www.wiki.ed.ac.uk/display/RDMS/Data+sharing+recommendations)
+  
 ### BioRDM wiki  
 [https://www.wiki.ed.ac.uk/display/RDMS](https://www.wiki.ed.ac.uk/display/RDMS)
 
-Biology-tailored resources related to data managment.
+Biology-tailored resources related to data management.
 * Re-usable paragraphs for DMP
 * List of recommended data repositories
 * Practical guides to Benchling and other tools
